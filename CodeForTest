@@ -14,5 +14,5 @@ func checkValue(s int) {
 func main() {
 	checkValue(0)
 	checkValue(1)
-	checkValue(2)
+	checkValu(2)
 }
